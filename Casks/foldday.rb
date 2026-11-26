@@ -1,6 +1,6 @@
 cask "foldday" do
-  version "1.3.0"
-  sha256 "aa914cef118eb8908654e4b8ce0d239d00997b97d84689a6a24eff48a9f72d98"
+  version "1.3.1"
+  sha256 "61dcc36fb86704164f84422b2f56499da8d182f2f9b356fb02187cbc39ce2822"
 
   url "https://github.com/Hoemr/FoldDay/releases/download/v#{version}/FoldDay.app.zip"
   name "FoldDay"
